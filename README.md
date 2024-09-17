@@ -6,4 +6,4 @@ This repo contains files for my progress in learning the following programming l
 
 ## Extensions used (VSCode)
 - Python: ``Python`` by ``Microsoft``
-- V: ``v-analyzer`` by ``VOSCA``, ``file-icons`` by ``file-icons``
+- Rust: ``rust-analyzer`` by ``The Rust Programming Language``
