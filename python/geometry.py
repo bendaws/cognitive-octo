@@ -2,6 +2,9 @@
 # (C) copyright 2024 Ben Daws
 # gnu gpl v3
 
+# See source: https://github.com/bendaws/cognitive-octo: In directory /python/geometry.py.
+# See usage examples: geometry_usage.py
+
 class circle:
     def pi(self):
         return 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679
